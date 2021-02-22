@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  React Native Application for GoBarber project
+  React Native Application for Barber Shop project
 </h3>
 
 <p align="center">The best way to schedule your service!</p>
